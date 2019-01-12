@@ -1,0 +1,8 @@
+{
+    "name": "TAG-Chan",
+    "Version": "0.0.1",
+    "Description": "Welcome, Onii-san!",
+    "main": "bot.js",
+    "author": "Slavinator",
+    "Dependencies":{}
+}
